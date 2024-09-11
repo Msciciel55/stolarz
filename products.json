@@ -1,0 +1,24 @@
+[
+  {
+    "id": "product1",
+    "name": "Stare łóżko",
+    "ingredients": [
+      "Deska brzozowa (5)",
+      "Olej rybny (5)",
+      "Jutowa tkanina (10)",
+      "Skóra wilka (2)"
+    ],
+    "description": "Regeneracja staminy: 0.2/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
+  },
+  {
+    "id": "product2",
+    "name": "Stół drewniany",
+    "ingredients": [
+      "Drewno sosnowe (4)",
+      "Klej stolarski (3)"
+    ],
+    "description": "Wytrzymałość: 50",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/product2.gif?raw=true"
+  }
+]
