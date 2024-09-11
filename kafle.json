@@ -14,5 +14,13 @@
         "title": "Stół drewniany",
         "subtitle": "Solidny stół",
         "description": "Tier 5"
+    },
+        {
+        "id": "product3",
+        "category": "tables",
+        "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true",
+        "title": "Stół drewniany",
+        "subtitle": "Solidny stół",
+        "description": "Tier 5"
     }
 ]
