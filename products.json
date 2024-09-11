@@ -13,13 +13,13 @@
   },
   {
     "id": "product2",
-    "name": "Stół drewniany",
+    "name": "Łóżko zarobasa",
     "ingredients": [
       "Drewno sosnowe (4)",
       "Klej stolarski (3)"
     ],
     "description": "Wytrzymałość: 50",
-    "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true"
   },
   {
     "id": "product3",
