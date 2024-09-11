@@ -19,6 +19,15 @@
       "Klej stolarski (3)"
     ],
     "description": "Wytrzymałość: 50",
-    "image": "https://github.com/Msciciel55/stolarz/blob/main/product2.gif?raw=true"
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
+  },
+    "id": "product3",
+    "name": "dupa",
+    "ingredients": [
+      "Drewno sosnowe (dupa)",
+      "Klej stolarski (dupa)"
+    ],
+    "description": "Wytrzymałość: 50",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
   }
 ]
