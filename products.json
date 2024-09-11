@@ -1,34 +1,31 @@
 [
-  {
-    "id": "product1",
-    "name": "Stare łóżko",
-    "ingredients": [
-      "Deska brzozowa (5)",
-      "Olej rybny (5)",
-      "Jutowa tkanina (10)",
-      "Skóra wilka (2)"
-    ],
-    "description": "Regeneracja staminy: 0.2/s",
-    "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
-  },
-  {
-    "id": "product2",
-    "name": "Łóżko zarobasa",
-    "ingredients": [
-      "Drewno sosnowe (4)",
-      "Klej stolarski (3)"
-    ],
-    "description": "Regeneracja staminy: 0.6/s",
-    "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true"
-  },
-  {
-    "id": "product3",
-    "name": "dupa",
-    "ingredients": [
-      "Drewno sosnowe (dupa)",
-      "Klej stolarski (dupa)"
-    ],
-    "description": "Wytrzymałość: 50",
-    "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
-  }
+    {
+        "id": "product1",
+        "name": "Stare łóżko",
+        "category": "beds",
+        "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true",
+        "description": "T15",
+        "ingredients": [
+            "Deska brzozowa (5)",
+            "Olej rybny (5)",
+            "Jutowa tkanina (10)",
+            "Skóra wilka (2)"
+        ],
+        "stats": "Regeneracja staminy: 0.2/s",
+        "gif": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
+    },
+    {
+        "id": "product2",
+        "name": "Łóżko zarobasa",
+        "category": "beds",
+        "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true",
+        "description": "Łóżko dla zarobasów",
+        "ingredients": [
+            "Drewno sosnowe (4)",
+            "Klej stolarski (3)"
+        ],
+        "stats": "Regeneracja staminy: 0.6/s",
+        "gif": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true"
+    }
+    // Dodaj więcej produktów
 ]
