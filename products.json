@@ -20,5 +20,15 @@
     ],
     "description": "Wytrzymałość: 50",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true"
+  },
+    {
+    "id": "product3",
+    "name": "Stół drewniany",
+    "ingredients": [
+      "Drewno sosnowe (4)",
+      "duuuuuuuuuuupa"
+    ],
+    "description": "Wytrzymałość: 50",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true"
   }
 ]
