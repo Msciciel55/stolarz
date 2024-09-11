@@ -2,7 +2,7 @@
     {
         "id": "product1",
         "category": "beds",
-        "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true",
+        "image": "https://github.com/Msciciel55/stolarz/blob/main/2.png?raw=true",
         "title": "Stare łóżko",
         "subtitle": "Stare lozko",
         "description": "Tier 15"
@@ -10,7 +10,7 @@
     {
         "id": "product2",
         "category": "tables",
-        "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true",
+        "image": "https://github.com/Msciciel55/stolarz/blob/main/2.png?raw=true",
         "title": "Stół drewniany",
         "subtitle": "Solidny stół",
         "description": "Tier 5"
@@ -18,7 +18,7 @@
         {
         "id": "product3",
         "category": "tables",
-        "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true",
+        "image": "https://github.com/Msciciel55/stolarz/blob/main/2.png?raw=true",
         "title": "Stół drewniany",
         "subtitle": "Solidny stół",
         "description": "Tier 5"
