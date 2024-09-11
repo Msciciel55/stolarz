@@ -10,6 +10,7 @@
       "Skóra wilka (2)"
     ],
     "description": "Regeneracja staminy: 0.2/s",
+    "price": "Cena 800 monet"
     "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true"
   },
   {
@@ -20,6 +21,7 @@
       "Klej stolarski (3)"
     ],
     "description": "Wytrzymałość: 50",
+    "price": "Cena 800 monet"
     "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true"
   },
     {
@@ -30,6 +32,7 @@
       "duuuuuuuuuuupa"
     ],
     "description": "Wytrzymałość: 50",
+    "price": "Cena 800 monet"
     "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true"
   }
 ]
