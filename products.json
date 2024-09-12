@@ -13,7 +13,7 @@
   },
   {
     "id": "product2",
-    "name": "Ławka z kłod",
+    "name": "Ławka z kłody",
     "ingredients": [
       "Craft:",
       "Deska brzozowa (2)",
@@ -46,8 +46,117 @@
       "Paczka gwoździ (3)",
       "Olej rybny (6)"
     ],
-    "description": "Pojemność: 300kg",
+    "description": "Pojemność: 300kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/4.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product5",
+    "name": "Biedny stół z desek",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (2)",
+      "Pocięte drewno brzozy (2)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (6)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product6",
+    "name": "Materac z slumsów",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (5)",
+      "Skóra zająca (5)",
+      "Olej rybny (6)"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product7",
+    "name": "Prosty taboret",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (3)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (6)"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product8",
+    "name": "Pospolity stół mieszkańca",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (3)",
+      "Pocięte drewno brzozy (2)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (6)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product9",
+    "name": "Słaba skrzynia",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (10)",
+      "Paczka gwoździ (3)",
+      "Żelazny pręt (1)",
+      "Olej rybny (6)"
+    ],
+    "description": "Pojemność: 100kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product10",
+    "name": "Stare łóżko",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (5)",
+      "Jutowa tkanina (10)",
+      "Skóra wilka (2)",
+      "Olej rybny (5)"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product11",
+    "name": "Słaba skrzynia ładunkowa",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (10)",
+      "Paczka gwoździ (5)",
+      "Olej rybny (6)"
+    ],
+    "description": "Pojemność: 300kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product12",
+    "name": "Drewniany stół z wzmocnieniami",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (4)",
+      "Paczka gwoździ (1)",
+      "Żelazny pręt (1)",
+      "Olej rybny (6)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
     "price": "Cena: x monet"
   }
 ]
