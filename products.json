@@ -1,27 +1,53 @@
 [
   {
     "id": "product1",
-    "name": "Stare łóżko",
+    "name": "Łóżko z slumsów",
     "ingredients": [
       "Craft:",
-      "Deska brzozowa (5)",
-      "Olej rybny (5)",
-      "Jutowa tkanina (10)",
-      "Skóra wilka (2)"
+      "Deska brzozowa (4)",
+      "Jutowa tkanina (8)"
     ],
-    "description": "Regeneracja staminy: 0.2/s",
-    "image": "https://github.com/Msciciel55/stolarz/blob/main/product1.gif?raw=true",
-    "price": "Cena: 800 monet"
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/1.gif?raw=true",
+    "price": "Cena: x monet"
   },
   {
     "id": "product2",
-    "name": "Stół drewniany",
+    "name": "Ławka z kłod",
     "ingredients": [
-      "Drewno sosnowe (4)",
-      "Klej stolarski (3)"
+      "Craft:",
+      "Deska brzozowa (2)",
+      "Pocięte drewno brzozy (2)",
+      "Olej rybny (6)"
     ],
-    "description": "Wytrzymałość: 50",
+    "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true",
-    "price": "Cena: 420 monet"
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product3",
+    "name": "Prowizoryczny stolik",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (4)",
+      "Pocięte drewno brzozy (2)",
+      "Olej rybny (6)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/3.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product4",
+    "name": "Prosta skrzynia portowa",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (10)",
+      "Paczka gwoździ (3)",
+      "Olej rybny (6)"
+    ],
+    "description": "Pojemność: 300kg",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/4.gif?raw=true",
+    "price": "Cena: x monet"
   }
 ]
