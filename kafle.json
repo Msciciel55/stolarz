@@ -2,7 +2,7 @@
     {
         "id": "product1",
         "category": "beds",
-        "image": "product1.png",
+        "image": "assets/1.png",
         "title": "Łóżko z slumsów",
         "subtitle": "Lozko z slumsow",
         "description": "Tier 1"
@@ -10,7 +10,7 @@
     {
         "id": "product2",
         "category": "siedziska",
-        "image": "product1.png",
+        "image": "assets/2.png",
         "title": "Ławka z kłody",
         "subtitle": "Lawka z klody",
         "description": "Tier 5"
@@ -18,7 +18,7 @@
     {
         "id": "product3",
         "category": "tables",
-        "image": "product1.png",
+        "image": "assets/3.png",
         "title": "Prowizoryczny stolik",
         "subtitle": "Prowizoryczny stolik",
         "description": "Tier 7"
@@ -26,7 +26,7 @@
     {
         "id": "product4",
         "category": "skrzynie",
-        "image": "product1.png",
+        "image": "assets/4.png",
         "title": "Prosta skrzynia portowa",
         "subtitle": "Prosta skrzynia portowa",
         "description": "Tier 10"
@@ -34,7 +34,7 @@
     {
         "id": "product5",
         "category": "tables",
-        "image": "product1.png",
+        "image": "assets/5.png",
         "title": "Biedny stół z desek",
         "subtitle": "Biedny stol z desek",
         "description": "Tier 10"
@@ -42,7 +42,7 @@
         {
         "id": "product6",
         "category": "beds",
-        "image": "product1.png",
+        "image": "assets/6.png",
         "title": "Materac z slumsów",
         "subtitle": "Materac z slumsów",
         "description": "Tier 10"
@@ -50,7 +50,7 @@
     {
         "id": "product7",
         "category": "siedziska",
-        "image": "product1.png",
+        "image": "assets/7.png",
         "title": "Prosty taboret",
         "subtitle": "Prosty taboret",
         "description": "Tier 10"
@@ -58,7 +58,7 @@
     {
         "id": "product8",
         "category": "tables",
-        "image": "product1.png",
+        "image": "assets/8.png",
         "title": "Pospolity stół mieszkańca",
         "subtitle": "Pospolity stol mieszkanca",
         "description": "Tier 11"
@@ -66,7 +66,7 @@
     {
         "id": "product9",
         "category": "skrzynie",
-        "image": "product1.png",
+        "image": "assets/9.png",
         "title": "Słaba skrzynia",
         "subtitle": "Slaba skrzynia",
         "description": "Tier 14"
@@ -74,7 +74,7 @@
     {
         "id": "product10",
         "category": "beds",
-        "image": "product1.png",
+        "image": "assets/10.png",
         "title": "Stare łóżko",
         "subtitle": "Stare lozko",
         "description": "Tier 15"
@@ -82,7 +82,7 @@
     {
         "id": "product11",
         "category": "skrzynie",
-        "image": "product1.png",
+        "image": "assets/11.png",
         "title": "Słaba skrzynia ładunkowa",
         "subtitle": "Slaba skrzynia ladunkowa",
         "description": "Tier 17"
@@ -90,7 +90,7 @@
     {
         "id": "product12",
         "category": "tables",
-        "image": "product1.png",
+        "image": "assets/12.png",
         "title": "Drewniany stół z wzmocnieniami",
         "subtitle": "Drewniany stol z wzmocnieniami",
         "description": "Tier 19"
