@@ -94,5 +94,21 @@
         "title": "Drewniany stół z wzmocnieniami",
         "subtitle": "Drewniany stol z wzmocnieniami",
         "description": "Tier 19"
+    },
+    {
+        "id": "product13",
+        "category": "siedziska",
+        "image": "assets/13.png",
+        "title": "Prosta drewniana ławka",
+        "subtitle": "Prosta drewniana lawka",
+        "description": "Tier 20"
+    },
+    {
+        "id": "product14",
+        "category": "siedziska",
+        "image": "assets/14.png",
+        "title": "Taboret biesiadnika",
+        "subtitle": "Taboret biesiadnika",
+        "description": "Tier 20"
     }
 ]
