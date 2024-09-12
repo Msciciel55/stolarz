@@ -9,7 +9,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/1.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product2",
@@ -22,7 +22,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/2.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product3",
@@ -35,7 +35,7 @@
     ],
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/3.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product4",
@@ -48,7 +48,7 @@
     ],
     "description": "Pojemność: 300kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/4.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product5",
@@ -62,7 +62,7 @@
     ],
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/5.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product6",
@@ -75,7 +75,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/6.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product7",
@@ -88,7 +88,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/7.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product8",
@@ -102,7 +102,7 @@
     ],
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/8.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product9",
@@ -116,7 +116,7 @@
     ],
     "description": "Pojemność: 100kg (KLUCZ)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/9.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product10",
@@ -130,7 +130,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/10.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product11",
@@ -143,7 +143,7 @@
     ],
     "description": "Pojemność: 300kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/11.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product12",
@@ -157,7 +157,7 @@
     ],
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/12.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product13",
@@ -171,7 +171,7 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/13.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   },
   {
     "id": "product14",
@@ -184,6 +184,6 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/14.gif?raw=true",
-    "price": "Cena: x monet"
+    "price": "x monet"
   }
 ]
