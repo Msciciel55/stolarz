@@ -158,5 +158,32 @@
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/12.gif?raw=true",
     "price": "Cena: x monet"
+  },
+  {
+    "id": "product13",
+    "name": "Prosta drewniana ławka",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (2)",
+      "Pocięte drewno brzozy (2)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/13.gif?raw=true",
+    "price": "Cena: x monet"
+  },
+  {
+    "id": "product14",
+    "name": "Taboret biesiadnika",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (3)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/14.gif?raw=true",
+    "price": "Cena: x monet"
   }
 ]
