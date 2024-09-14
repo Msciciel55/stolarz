@@ -195,7 +195,7 @@
       "Paczka gwoździ (5)",
       "Olej rybny (9)"
     ],
-    "description": "Pojemność: (NIEZNANA) (BEZKLUCZA)",
+    "description": "Pojemność: (500) (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/15.gif?raw=true",
     "price": "x monet"
   },
@@ -226,6 +226,35 @@
     ],
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/17.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product18",
+    "name": "Mała półka na produkty",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (4)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/18.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product19",
+    "name": "Dobra skrzynia z Khorinisy",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (20)",
+      "Klej (2)",
+      "Paczka gwoździ (3)",
+      "Żelazny pręt (3)",
+      "Olej rybny (9)"
+    ],
+    "description": "Pojemność: 200kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/19.gif?raw=true",
     "price": "x monet"
   }
 ]
