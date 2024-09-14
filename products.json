@@ -208,7 +208,7 @@
       "Paczka gwoździ (5)",
       "Olej rybny (9)"
     ],
-    "description": "Pojemność: (500) (BEZKLUCZA)",
+    "description": "Pojemność: 500kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/15.gif?raw=true",
     "price": "x monet"
   },
@@ -237,7 +237,7 @@
       "Jutowa tkanina (15)",
       "Olej rybny (9)"
     ],
-    "description": "",
+    "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/17.gif?raw=true",
     "price": "x monet"
   },
@@ -308,7 +308,7 @@
       "Paczka gwoździ (6)",
       "Olej rybny (9)"
     ],
-    "description": "",
+    "description": "Pojemność: 600kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/22.gif?raw=true",
     "price": "x monet"
   }
