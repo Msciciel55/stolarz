@@ -145,6 +145,19 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/11.gif?raw=true",
     "price": "x monet"
   },
+    {
+    "id": "product11.5",
+    "name": "Stos słabych skrzyń ładunkowych",
+    "ingredients": [
+      "Craft:",
+      "Deska brzozowa (x)",
+      "Paczka gwoździ (x)",
+      "Olej rybny (x)"
+    ],
+    "description": "Pojemność: 500kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/11_5.gif?raw=true",
+    "price": "x monet"
+  },
   {
     "id": "product12",
     "name": "Drewniany stół z wzmocnieniami",
@@ -244,7 +257,7 @@
   },
   {
     "id": "product19",
-    "name": "Dobra skrzynia z Khorinisy",
+    "name": "Dobra skrzynia z Khorinis",
     "ingredients": [
       "Craft:",
       "Deska topoli (20)",
@@ -255,6 +268,48 @@
     ],
     "description": "Pojemność: 200kg (KLUCZ)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/19.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product20",
+    "name": "Zwykła półka na produkty",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (4)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/20.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product21",
+    "name": "Prosta sklepowa półka",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (4)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/21.gif?raw=true",
+    "price": "x monet"
+  },
+      {
+    "id": "product22",
+    "name": "Stos zwykłych skrzyń ładunkowych",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (25)",
+      "Klej (2)",
+      "Paczka gwoździ (6)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/22.gif?raw=true",
     "price": "x monet"
   }
 ]
