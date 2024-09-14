@@ -134,5 +134,21 @@
         "title": "Łóżko z włókien roślinnych",
         "subtitle": "Lozko z wlokien roslinnych",
         "description": "Tier 24"
+    },
+    {
+        "id": "product18",
+        "category": "dekoracja",
+        "image": "assets/18.png",
+        "title": "Mała półka na produkty",
+        "subtitle": "Mala polka na produkty",
+        "description": "Tier 25"
+    },
+    {
+        "id": "product19",
+        "category": "skrzynie",
+        "image": "assets/19.png",
+        "title": "Dobra skrzynia z Khorinis",
+        "subtitle": "Dobra skrzynia z Khorinis",
+        "description": "Tier 26"
     }
 ]
