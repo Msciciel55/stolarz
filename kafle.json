@@ -110,5 +110,29 @@
         "title": "Taboret biesiadnika",
         "subtitle": "Taboret biesiadnika",
         "description": "Tier 20"
+    },
+    {
+        "id": "product15",
+        "category": "skrzynie",
+        "image": "assets/15.png",
+        "title": "Dobra skrzynia ładunkowa",
+        "subtitle": "Dobra skrzynia ladunkowa",
+        "description": "Tier 22"
+    },
+    {
+        "id": "product16",
+        "category": "tables",
+        "image": "assets/16.png",
+        "title": "Duży pospolity stół mieszkańcaa",
+        "subtitle": "Duzy pospolity stol mieszkanca",
+        "description": "Tier 23"
+    },
+    {
+        "id": "product17",
+        "category": "beds",
+        "image": "assets/17.png",
+        "title": "Łóżko z włókien roślinnych",
+        "subtitle": "Lozko z wlokien roslinnych",
+        "description": "Tier 24"
     }
 ]
