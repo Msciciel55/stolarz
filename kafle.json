@@ -87,6 +87,14 @@
         "subtitle": "Slaba skrzynia ladunkowa",
         "description": "Tier 17"
     },
+        {
+        "id": "product11.5",
+        "category": "skrzynie",
+        "image": "assets/11_5.png",
+        "title": "Stos słabych skrzyń ładunkowych",
+        "subtitle": "Stos slabych skrzyn ladunkowych",
+        "description": "Tier 18"
+    },
     {
         "id": "product12",
         "category": "tables",
@@ -150,5 +158,29 @@
         "title": "Dobra skrzynia z Khorinis",
         "subtitle": "Dobra skrzynia z Khorinis",
         "description": "Tier 26"
+    },
+    {
+        "id": "product20",
+        "category": "dekoracja",
+        "image": "assets/20.png",
+        "title": "Zwykła półka",
+        "subtitle": "Zwykla polka",
+        "description": "Tier 26"
+    },
+    {
+        "id": "product21",
+        "category": "dekoracja",
+        "image": "assets/21.png",
+        "title": "Prosta sklepowa półka",
+        "subtitle": "Prosta sklepowa polka",
+        "description": "Tier 27"
+    },
+    {
+        "id": "product22",
+        "category": "skrzynie",
+        "image": "assets/22.png",
+        "title": "Stos zwykłych skrzyń ładunkowych",
+        "subtitle": "Stos zwyklych skrzyn ladunkowych",
+        "description": "Tier 28"
     }
 ]
