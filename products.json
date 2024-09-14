@@ -185,5 +185,47 @@
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/14.gif?raw=true",
     "price": "x monet"
+  },
+  {
+    "id": "product15",
+    "name": "Dobra skrzynia ładunkowa",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (20)",
+      "Paczka gwoździ (5)",
+      "Olej rybny (9)"
+    ],
+    "description": "Pojemność: (NIEZNANA) (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/15.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product16",
+    "name": "Duży pospolity stół mieszkańca",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (4)",
+      "Pocięte drewno topoli (2)",
+      "Paczka gwoździ (1)",
+      "Klej (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/16.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product17",
+    "name": "Łóżko z włókien roślinnych",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Klej (1)",
+      "Jutowa tkanina (15)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/17.gif?raw=true",
+    "price": "x monet"
   }
 ]
