@@ -426,5 +426,19 @@
     "description": "Pojemność: 250kg (KLUCZ)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/30.gif?raw=true",
     "price": "x monet"
+  },
+  {
+    "id": "product31",
+    "name": "Prowizoryczne krzesło",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (12)"
+    ],
+    "description": "Regeneracja staminy: (NIEZNANE)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/31.gif?raw=true",
+    "price": "x monet"
   }
 ]
