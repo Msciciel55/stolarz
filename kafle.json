@@ -182,5 +182,29 @@
         "title": "Stos zwykłych skrzyń ładunkowych",
         "subtitle": "Stos zwyklych skrzyn ladunkowych",
         "description": "Tier 28"
+    },
+    {
+        "id": "product23",
+        "category": "siedziska",
+        "image": "assets/23.png",
+        "title": "Wzmocniony taboret",
+        "subtitle": "Wzmocniony taboret",
+        "description": "Tier 30"
+    },
+    {
+        "id": "product24",
+        "category": "dekoracja",
+        "image": "assets/24.png",
+        "title": "Stojak z beczką na wino",
+        "subtitle": "Stojak z beczka na wino",
+        "description": "Tier 31"
+    },
+    {
+        "id": "product25",
+        "category": "tables",
+        "image": "assets/25.png",
+        "title": "Argański stoliko",
+        "subtitle": "Arganski stolik",
+        "description": "Tier 32"
     }
 ]
