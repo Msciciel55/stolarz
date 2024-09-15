@@ -298,7 +298,7 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/21.gif?raw=true",
     "price": "x monet"
   },
-      {
+    {
     "id": "product22",
     "name": "Stos zwykłych skrzyń ładunkowych",
     "ingredients": [
@@ -310,6 +310,49 @@
     ],
     "description": "Pojemność: 600kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/22.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product23",
+    "name": "Wzmocniony taboret",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (3)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/23.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product24",
+    "name": "Stojak z beczką na wino",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (3)",
+      "Pocięte drewno topoli (2)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/24.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product25",
+    "name": "Argański stolik",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (4)",
+      "Pocięte drewno topoli (2)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (9)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/25.gif?raw=true",
     "price": "x monet"
   }
 ]
