@@ -239,12 +239,20 @@
         "subtitle": "Mniejsza trumna",
         "description": "Tier 33"
     },
-        {
+    {
         "id": "product30",
         "category": "skrzynie",
         "image": "assets/30.png",
         "title": "Skrzynia marynarzy",
         "subtitle": "Skrzynia marynarzy",
         "description": "Tier 34"
+    },
+    {
+        "id": "product31",
+        "category": "siedzisko",
+        "image": "assets/31.png",
+        "title": "Prowizoryczne krzesło",
+        "subtitle": "Prowizoryczne krzeslo",
+        "description": "Tier 35"
     }
 ]
