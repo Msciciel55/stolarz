@@ -206,5 +206,45 @@
         "title": "Argański stoliko",
         "subtitle": "Arganski stolik",
         "description": "Tier 32"
+    },
+    {
+        "id": "product26",
+        "category": "siedziska",
+        "image": "assets/26.png",
+        "title": "Zwykła ławka",
+        "subtitle": "Zwykla lawka",
+        "description": "Tier 32"
+    },
+    {
+        "id": "product27",
+        "category": "dekoracja",
+        "image": "assets/27.png",
+        "title": "Wielka trumna",
+        "subtitle": "Wielka trumna",
+        "description": "Tier 32"
+    },
+        {
+        "id": "product28",
+        "category": "beds",
+        "image": "assets/28.png",
+        "title": "Torgańskie łóżko",
+        "subtitle": "Torganskie lozko",
+        "description": "Tier 33"
+    },
+    {
+        "id": "product29",
+        "category": "dekoracja",
+        "image": "assets/29.png",
+        "title": "Mniejsza trumna",
+        "subtitle": "Mniejsza trumna",
+        "description": "Tier 33"
+    },
+        {
+        "id": "product30",
+        "category": "skrzynie",
+        "image": "assets/30.png",
+        "title": "Skrzynia marynarzy",
+        "subtitle": "Skrzynia marynarzy",
+        "description": "Tier 34"
     }
 ]
