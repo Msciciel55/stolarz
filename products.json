@@ -354,5 +354,77 @@
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/25.gif?raw=true",
     "price": "x monet"
+  },
+    {
+    "id": "product26",
+    "name": "Zwykła ławka",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Sadło kretoszczura (10)"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/26.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product27",
+    "name": "Wielka trumna",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Sadło kretoszczura (10)"
+    ],
+    "description": "Pora umierać",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/27.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product28",
+    "name": "Torgańskie łóżko",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (15)",
+      "Jutrowa tkanina (15)",
+      "Klej (2)",
+      "Paczka gwoździ (2)",
+      "Olej rybny (12)"
+    ],
+    "description": "Regeneracja staminy: 0.34/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/28.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product29",
+    "name": "Mniejsza trumna",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Sadło kretoszczura (5)"
+    ],
+    "description": "Pora umierać",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/29.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product30",
+    "name": "Skrzynia marynarzy",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (20)",
+      "Klej (3)",
+      "Paczka gwoździ (6)",
+      "Żelazny pręt (2)",
+      "Olej rybny (12)"
+    ],
+    "description": "Pojemność: 250kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/30.gif?raw=true",
+    "price": "x monet"
   }
 ]
