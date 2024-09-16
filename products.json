@@ -132,6 +132,17 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/10.gif?raw=true",
     "price": "x monet"
   },
+    {
+    "id": "product10.5",
+    "name": "Stare łóżko",
+    "ingredients": [
+      "Craft:",
+      "Część zamka (1)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/10_5.gif?raw=true",
+    "price": "30 monet"
+  },
   {
     "id": "product11",
     "name": "Słaba skrzynia ładunkowa",
@@ -439,6 +450,51 @@
     ],
     "description": "Regeneracja staminy: (NIEZNANE)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/31.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product32",
+    "name": "Dobry stół z topoli",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Pocięte drewno topoli (2)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Żelazny pręt (1)",
+      "Olej rybny (12)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/32.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product33",
+    "name": "Biedna drewniana komoda",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Pocięte drewno topoli (2)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (12)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/33.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product34",
+    "name": "Stojak na wina",
+    "ingredients": [
+      "Craft:",
+      "Deska topoli (5)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (12)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/34.gif?raw=true",
     "price": "x monet"
   }
 ]
