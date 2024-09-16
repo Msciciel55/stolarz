@@ -296,6 +296,14 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.x",
+        "category": "inne",
+        "image": "assets/35_x.png",
+        "title": "Wóz",
+        "subtitle": "woz",
+        "description": "Tier 40"
+    },
+    {
         "id": "product35.1",
         "category": "warsztaty",
         "image": "assets/35_1.png",
@@ -341,14 +349,6 @@
         "image": "assets/35_6.png",
         "title": "Piec do wypieków",
         "subtitle": "Piec do wypieków",
-        "description": "Tier 40"
-    },
-    {
-        "id": "product35.x",
-        "category": "inne",
-        "image": "assets/35_x.png",
-        "title": "Wóz",
-        "subtitle": "woz",
         "description": "Tier 40"
     },
     {
