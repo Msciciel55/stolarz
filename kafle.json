@@ -286,5 +286,29 @@
         "title": "Stojak na wina",
         "subtitle": "Stojak na wina",
         "description": "Tier 39"
+    },
+        {
+        "id": "product35",
+        "category": "siedzisko",
+        "image": "assets/35.png",
+        "title": "Wyborny taboret",
+        "subtitle": "Wyborny taboret",
+        "description": "Tier 40"
+    },
+        {
+        "id": "product36",
+        "category": "dekoracja",
+        "image": "assets/36.png",
+        "title": "Duży stojak na wina",
+        "subtitle": "Duzy stojak na wina",
+        "description": "Tier 41"
+    },
+        {
+        "id": "product37",
+        "category": "skrzynie",
+        "image": "assets/37.png",
+        "title": "Zwykła skrzynia z zamkiem",
+        "subtitle": "Zwykła skrzynia z zamkiem",
+        "description": "Tier 42"
     }
 ]
