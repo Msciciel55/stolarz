@@ -512,11 +512,119 @@
     "price": "x monet"
   },
     {
+    "id": "product35_X",
+    "name": "Wóz",
+    "ingredients": [
+      "Craft:",
+      "Deski topoli (20)",
+      "Klej (5)",
+      "Paczka gwoździ (10)",
+      "Żelazny pręt (4)",
+      "Olej rybny (30)"
+    ],
+    "description": "Model w grze jest inny",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_x.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35_1",
+    "name": "Stół cukierniczy",
+    "ingredients": [
+      "Craft:",
+      "Deski dębowa (30)",
+      "Jutowa tkanina (60)",
+      "Klej (5)",
+      "Paczka gwoździ (30)",
+      "Stalowa blacha (15)",
+      "Olej rybny (30)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_1.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35_2",
+    "name": "Stół rzeźniczy",
+    "ingredients": [
+      "Craft:",
+      "Deska dębowa (30)",
+      "Klej (5)",
+      "Paczka gwoździ (10)",
+      "Stalowy pręt (10)",
+      "Sporej wielkości tasak (1)",
+      "Olej rybny (30)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_2.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35_3",
+    "name": "Piec do smażenia mięsa",
+    "ingredients": [
+      "Craft:",
+      "Sztaba stali (10)",
+      "Stalowa blacha (20)",
+      "Stalowy pręt (20)",
+      "Nity (40)",
+      "Olej rybny (30)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_3.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product35_4",
+    "name": "Wyciskarka do owoców",
+    "ingredients": [
+      "Craft:",
+      "Deska dębowa (30)",
+      "Klej (5)",
+      "Paczka gwoździ (15)",
+      "Rozdrabniacz (1)",
+      "Olej rybny (30)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_4.gif?raw=true",
+    "price": "x monet"
+  },
+      {
+    "id": "product35_5",
+    "name": "Stół do łuków",
+    "ingredients": [
+      "Craft:",
+      "Deska dębowa (40)",
+      "Klej (20)",
+      "Paczka gwoździ (30)",
+      "Papier ścierny (30)",
+      "Olej rybny (40)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_5.gif?raw=true",
+    "price": "x monet"
+  },
+      {
+    "id": "product35_6",
+    "name": "Piec do wypieków",
+    "ingredients": [
+      "Craft:",
+      "Sztaba stali (15)",
+      "Stalowa blacha (20)",
+      "Paczka gwoździ (10)",
+      "Nity (40)",
+      "Kamień (300)",
+      "Olej rybny (30)"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_6.gif?raw=true",
+    "price": "x monet"
+  },
+    {
     "id": "product36",
     "name": "Duży stojak na wina",
     "ingredients": [
       "Craft:",
-      "Deska dębu (3)",
+      "Deska dębowa (3)",
       "Klej (2)",
       "Paczka gwoździ (1)",
       "Olej rybny (12)"
@@ -530,7 +638,7 @@
     "name": "Zwykła skrzynia z zamkiem",
     "ingredients": [
       "Craft:",
-      "Deska dębu (20)",
+      "Deska dębowa (20)",
       "Klej (3)",
       "Paczka gwoździ (6)",
       "Żelazny pręt (3)",
