@@ -344,6 +344,14 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.x",
+        "category": "inne",
+        "image": "assets/35_x.png",
+        "title": "Wóz",
+        "subtitle": "woz",
+        "description": "Tier 40"
+    },
+    {
         "id": "product36",
         "category": "dekoracja",
         "image": "assets/36.png",
