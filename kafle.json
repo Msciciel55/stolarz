@@ -298,11 +298,51 @@
     {
         "id": "product35.1",
         "category": "warsztaty",
-        "image": "assets/35.png",
-        "title": "test",
-        "subtitle": "test",
+        "image": "assets/35_1.png",
+        "title": "Stół cukierniczy",
+        "subtitle": "Stol cukierniczy",
         "description": "Tier 40"
-    },    
+    },
+    {
+        "id": "product35.2",
+        "category": "warsztaty",
+        "image": "assets/35_2.png",
+        "title": "Stół rzeźniczy",
+        "subtitle": "Stol rzezniczy",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.3",
+        "category": "warsztaty",
+        "image": "assets/35_3.png",
+        "title": "Piec do smażenia mięsa",
+        "subtitle": "Piec do smazenia miesa",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.4",
+        "category": "warsztaty",
+        "image": "assets/35_4.png",
+        "title": "Wyciskarka do owoców",
+        "subtitle": "Wyciskarka do owocow",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.5",
+        "category": "warsztaty",
+        "image": "assets/35_5.png",
+        "title": "Stół do łuków",
+        "subtitle": "Stol do lukow",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.6",
+        "category": "warsztaty",
+        "image": "assets/35_6.png",
+        "title": "Piec do wypieków",
+        "subtitle": "Piec do wypieków",
+        "description": "Tier 40"
+    },
     {
         "id": "product36",
         "category": "dekoracja",
