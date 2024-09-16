@@ -512,7 +512,7 @@
     "price": "x monet"
   },
     {
-    "id": "product35_x",
+    "id": "product35.x",
     "name": "Wóz",
     "ingredients": [
       "Potrzebne materiały:",
@@ -527,7 +527,7 @@
     "price": "x monet"
   },
     {
-    "id": "product35_1",
+    "id": "product35.1",
     "name": "Stół cukierniczy",
     "ingredients": [
       "Potrzebne materiały:",
@@ -543,7 +543,7 @@
     "price": "x monet"
   },
     {
-    "id": "product35_2",
+    "id": "product35.2",
     "name": "Stół rzeźniczy",
     "ingredients": [
       "Potrzebne materiały:",
@@ -559,7 +559,7 @@
     "price": "x monet"
   },
     {
-    "id": "product35_3",
+    "id": "product35.3",
     "name": "Piec do smażenia mięsa",
     "ingredients": [
       "Potrzebne materiały:",
@@ -574,7 +574,7 @@
     "price": "x monet"
   },
     {
-    "id": "product35_4",
+    "id": "product35.4",
     "name": "Wyciskarka do owoców",
     "ingredients": [
       "Potrzebne materiały:",
@@ -589,7 +589,7 @@
     "price": "x monet"
   },
       {
-    "id": "product35_5",
+    "id": "product35.5",
     "name": "Stół do łuków",
     "ingredients": [
       "Potrzebne materiały:",
@@ -604,7 +604,7 @@
     "price": "x monet"
   },
       {
-    "id": "product35_6",
+    "id": "product35.6",
     "name": "Piec do wypieków",
     "ingredients": [
       "Potrzebne materiały:",
