@@ -496,5 +496,48 @@
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/34.gif?raw=true",
     "price": "x monet"
+  },
+    {
+    "id": "product35",
+    "name": "Wyborny taboret",
+    "ingredients": [
+      "Craft:",
+      "Deska dębu (3)",
+      "Klej (1)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (12)"
+    ],
+    "description": "Regeneracja staminy: (NIEZNANE)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product36",
+    "name": "Duży stojak na wina",
+    "ingredients": [
+      "Craft:",
+      "Deska dębu (3)",
+      "Klej (2)",
+      "Paczka gwoździ (1)",
+      "Olej rybny (12)"
+    ],
+    "description": "Regeneracja staminy: (NIEZNANE)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/36.gif?raw=true",
+    "price": "x monet"
+  },
+        {
+    "id": "product37",
+    "name": "Zwykła skrzynia z zamkiem",
+    "ingredients": [
+      "Craft:",
+      "Deska dębu (20)",
+      "Klej (3)",
+      "Paczka gwoździ (6)",
+      "Żelazny pręt (3)",
+      "Olej rybny (12)"
+    ],
+    "description": "Pojemność: 300kg (KLUCZ)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/37.gif?raw=true",
+    "price": "x monet"
   }
 ]
