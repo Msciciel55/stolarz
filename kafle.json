@@ -80,6 +80,14 @@
         "description": "Tier 15"
     },
     {
+        "id": "product10.5",
+        "category": "inne",
+        "image": "assets/10_5.png",
+        "title": "Dorabianie klucza",
+        "subtitle": "Dorabianie klucza",
+        "description": "Tier 15"
+    },
+    {
         "id": "product11",
         "category": "skrzynie",
         "image": "assets/11.png",
@@ -254,5 +262,29 @@
         "title": "Prowizoryczne krzesło",
         "subtitle": "Prowizoryczne krzeslo",
         "description": "Tier 35"
+    },
+    {
+        "id": "product32",
+        "category": "siedzisko",
+        "image": "assets/32.png",
+        "title": "Dobry stół z topoli",
+        "subtitle": "Dobry stol z topoli",
+        "description": "Tier 35"
+    },
+    {
+        "id": "product33",
+        "category": "dekoracja",
+        "image": "assets/33.png",
+        "title": "Biedna drewniana komoda",
+        "subtitle": "Biedna drewniana komoda",
+        "description": "Tier 38"
+    },
+    {
+        "id": "product34",
+        "category": "dekoracja",
+        "image": "assets/34.png",
+        "title": "Stojak na wina",
+        "subtitle": "Stojak na wina",
+        "description": "Tier 39"
     }
 ]
