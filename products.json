@@ -882,5 +882,21 @@
     "description": "Pojemność: 600kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/49.webp?raw=true",
     "price": "x monet"
+  },
+  {
+    "id": "product50",
+    "name": "Zwyczajne łóżko strażnika",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Jedwabna tkanina",
+      "Skóra czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/50.webp?raw=true",
+    "price": "x monet"
   }
 ]
