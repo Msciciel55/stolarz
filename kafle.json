@@ -510,5 +510,13 @@
         "title": "Prosta drewniana skrzynia",
         "subtitle": "Prosta drewniana skrzynia",
         "description": "Tier 58"
-    }
+    },
+    {
+        "id": "product52",
+        "category": "beds",
+        "image": "assets/52.webp",
+        "title": "Farańskie łóżko",
+        "subtitle": "Farańskie łóżko",
+        "description": "Tier 60"
+    },
 ]
