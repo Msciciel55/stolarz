@@ -359,12 +359,60 @@
         "subtitle": "Duzy stojak na wina",
         "description": "Tier 41"
     },
-        {
+    {
         "id": "product37",
         "category": "skrzynie",
         "image": "assets/37.png",
         "title": "Zwykła skrzynia z zamkiem",
         "subtitle": "Zwykła skrzynia z zamkiem",
         "description": "Tier 42"
+    },
+    {
+        "id": "product38",
+        "category": "dekoracja",
+        "image": "assets/38.png",
+        "title": "Zwykły stojak na alkohol",
+        "subtitle": "Zwykly stojak na alkohol",
+        "description": "Tier 43"
+    },
+    {
+        "id": "product39",
+        "category": "beds",
+        "image": "assets/39.png",
+        "title": "Wygodne łóżko z Feshyr",
+        "subtitle": "Wygodne lozko z Feshyr",
+        "description": "Tier 44"
+    },
+    {
+        "id": "product40",
+        "category": "tables",
+        "image": "assets/40.png",
+        "title": "Mały stoliczek",
+        "subtitle": "Maly stoliczek",
+        "description": "Tier 45"
+    },
+    {
+        "id": "product41",
+        "category": "siedzisko",
+        "image": "assets/41.png",
+        "title": "Ławka obozowa",
+        "subtitle": "Lawka obozowa",
+        "description": "Tier 46"
+    },
+    {
+        "id": "product42",
+        "category": "tables",
+        "image": "assets/42.png",
+        "title": "Skrzynka zrobiona na stolik",
+        "subtitle": "Skrzynka zrobiona na stolik",
+        "description": "Tier 49"
+    },
+    {
+        "id": "product43",
+        "category": "beds",
+        "image": "assets/43.png",
+        "title": "Drewniana wanna",
+        "subtitle": "Drewniana wanna",
+        "description": "Tier 50"
     }
 ]
