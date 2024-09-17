@@ -782,7 +782,7 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/42.gif?raw=true",
     "price": "x monet"
   },
-      {
+  {
     "id": "product43",
     "name": "Drewniana wanna",
     "ingredients": [
@@ -795,6 +795,36 @@
     ],
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/43.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product44",
+    "name": "Varanckie łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Varanckie tkaniny",
+      "Skóry czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/44.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product45",
+    "name": "Wygodny taboret\n(animacja pisania)",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/45.webp?raw=true",
     "price": "x monet"
   }
 ]
