@@ -464,6 +464,14 @@
         "description": "Tier 52"
     },
     {
+        "id": "product47",
+        "category": "tables",
+        "image": "assets/47.webp",
+        "title": "Vengardzki stół szlachty",
+        "subtitle": "Vengardzki stol szlachty",
+        "description": "Tier 53"
+    }
+    {
         "id": "product46",
         "category": "skrzynie",
         "image": "assets/46.webp",
