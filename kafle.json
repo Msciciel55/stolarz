@@ -454,5 +454,21 @@
         "title": "Varanckie łóżko",
         "subtitle": "Varanckie łóżko",
         "description": "Tier 51"
+    },
+    {
+        "id": "product45",
+        "category": "siedziska",
+        "image": "assets/45.webp",
+        "title": "Wygodny taboret",
+        "subtitle": "Wygodny taboret",
+        "description": "Tier 52"
+    },
+    {
+        "id": "product46",
+        "category": "skrzynie",
+        "image": "assets/46.webp",
+        "title": "Stos dobrych skrzyń ładunkowych",
+        "subtitle": "Stos dobrych skrzyn ladunkowych",
+        "description": "Tier 54"
     }
 ]
