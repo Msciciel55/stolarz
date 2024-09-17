@@ -446,5 +446,13 @@
         "title": "Drewniana wanna",
         "subtitle": "Drewniana wanna",
         "description": "Tier 50"
+    },
+    {
+        "id": "product44",
+        "category": "beds",
+        "image": "assets/44.webp",
+        "title": "Varanckie łóżko",
+        "subtitle": "Varanckie łóżko",
+        "description": "Tier 51"
     }
 ]
