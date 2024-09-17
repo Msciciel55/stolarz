@@ -502,5 +502,13 @@
         "title": "Zwyczajne łóżko strażnika",
         "subtitle": "Zwyczajne łóżko strażnika",
         "description": "Tier 57"
+    },
+    {
+        "id": "product51",
+        "category": "skrzynie",
+        "image": "assets/51.webp",
+        "title": "Prosta drewniana skrzynia",
+        "subtitle": "Prosta drewniana skrzynia",
+        "description": "Tier 58"
     }
 ]
