@@ -139,8 +139,16 @@
         "id": "product16",
         "category": "tables",
         "image": "assets/16.png",
-        "title": "Duży pospolity stół mieszkańcaa",
+        "title": "Duży pospolity stół mieszkańca",
         "subtitle": "Duzy pospolity stol mieszkanca",
+        "description": "Tier 23"
+    },
+    {
+        "id": "product16.5",
+        "category": "beds",
+        "image": "assets/16_5.webp",
+        "title": "Łóżko myśliwego",
+        "subtitle": "Lozko mysliwego",
         "description": "Tier 23"
     },
     {
