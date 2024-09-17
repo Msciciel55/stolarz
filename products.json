@@ -239,6 +239,22 @@
     "price": "x monet"
   },
   {
+    "id": "product16.5",
+    "name": "Duży pospolity stół mieszkańca",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Jutowe tkaniny",
+      "Skóry wilka",
+      "Paczka gwoździ",
+      "Klej",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: 0.30/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/16_5.webp?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product17",
     "name": "Łóżko z włókien roślinnych",
     "ingredients": [
