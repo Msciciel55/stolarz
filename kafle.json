@@ -470,7 +470,15 @@
         "title": "Vengardzki stół szlachty",
         "subtitle": "Vengardzki stol szlachty",
         "description": "Tier 53"
-    }
+    },
+    {
+        "id": "product48",
+        "category": "siedziska",
+        "image": "assets/48.webp",
+        "title": "Ławka miejska",
+        "subtitle": "lawka miejska",
+        "description": "Tier 53"
+    },
     {
         "id": "product46",
         "category": "skrzynie",
