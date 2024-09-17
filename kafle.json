@@ -208,6 +208,14 @@
         "description": "Tier 31"
     },
     {
+        "id": "product24.5",
+        "category": "beds",
+        "image": "assets/24_5.webp",
+        "title": "Biedne łóżko",
+        "subtitle": "Biedne łóżko",
+        "description": "Tier 31"
+    },
+    {
         "id": "product25",
         "category": "tables",
         "image": "assets/25.png",
