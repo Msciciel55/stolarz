@@ -526,5 +526,21 @@
         "title": "Regał na książki",
         "subtitle": "Regal na ksiazki",
         "description": "Tier 60"
+    },
+    {
+        "id": "product54",
+        "category": "siedziska",
+        "image": "assets/54.webp",
+        "title": "Fotel z tkaniny",
+        "subtitle": "Fotel z tkaniny",
+        "description": "Tier 60"
+    },
+    {
+        "id": "product55",
+        "category": "siedziska",
+        "image": "assets/55.webp",
+        "title": "Fotel z skóry",
+        "subtitle": "Fotel z skóry",
+        "description": "Tier 60"
     }
 ]
