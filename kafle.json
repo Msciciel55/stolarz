@@ -486,5 +486,13 @@
         "title": "Stos dobrych skrzyń ładunkowych",
         "subtitle": "Stos dobrych skrzyn ladunkowych",
         "description": "Tier 54"
+    },
+        {
+        "id": "product49",
+        "category": "skrzynie",
+        "image": "assets/49.webp",
+        "title": "Wzmocniona skrzynia ładunkowa",
+        "subtitle": "Wzmocniona skrzynia ladunkowa",
+        "description": "Tier 55"
     }
 ]
