@@ -834,13 +834,27 @@
       "Potrzebne materiały:",
       "Deski dębowe",
       "Klej",
-      "Paczk gwoździ",
+      "Paczka gwoździ",
       "Oleje rybne"
     ],
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/47.webp?raw=true",
     "price": "x monet"
-  }
+  },
+    {
+    "id": "product48",
+    "name": "Ławka miejska",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Klej",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/48.webp?raw=true",
+    "price": "x monet"
+  },
   {
     "id": "product46",
     "name": "Stos dobrych skrzyń ładunkowych",
