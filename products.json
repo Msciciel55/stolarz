@@ -929,5 +929,19 @@
     "description": "Regeneracja staminy: 0.45/s",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/52.webp?raw=true",
     "price": "x monet"
+  },
+  {
+    "id": "product53",
+    "name": "Regał na księgi",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/53.webp?raw=true",
+    "price": "x monet"
   }
 ]
