@@ -344,6 +344,22 @@
         "description": "Tier 40"
     },
     {
+        "id": "product35.5a",
+        "category": "warsztaty",
+        "image": "assets/35_5a.png",
+        "title": "Stół do kusz",
+        "subtitle": "Stol do kusz",
+        "description": "Tier 40"
+    },
+    {
+        "id": "product35.5b",
+        "category": "warsztaty",
+        "image": "assets/35_5b.png",
+        "title": "Stół do amunicji",
+        "subtitle": "Stol do amunicji",
+        "description": "Tier 40"
+    },
+    {
         "id": "product35.6",
         "category": "warsztaty",
         "image": "assets/35_6.png",
