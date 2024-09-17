@@ -519,4 +519,12 @@
         "subtitle": "Farańskie łóżko",
         "description": "Tier 60"
     },
+    {
+        "id": "product53",
+        "category": "dekoracja",
+        "image": "assets/53.webp",
+        "title": "Regał na książki",
+        "subtitle": "Regal na ksiazki",
+        "description": "Tier 60"
+    }
 ]
