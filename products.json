@@ -588,7 +588,7 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/35_4.gif?raw=true",
     "price": "x monet"
   },
-      {
+  {
     "id": "product35.5",
     "name": "Stół do łuków",
     "ingredients": [
@@ -603,7 +603,38 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/35_5.gif?raw=true",
     "price": "x monet"
   },
-      {
+  {
+    "id": "product35.5a",
+    "name": "Stół do kusz",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki z gwoździami",
+      "Papiery ścierne",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_5a.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product35.5b",
+    "name": "Stół do amunicji",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki z gwoździami",
+      "Stalowe pręty",
+      "Kije",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/35_5b.gif?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product35.6",
     "name": "Piec do wypieków",
     "ingredients": [
@@ -733,5 +764,5 @@
     "description": "Regeneracja staminy: (nieznane)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/43.gif?raw=true",
     "price": "x monet"
-  },
+  }
 ]
