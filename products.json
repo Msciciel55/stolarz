@@ -337,7 +337,7 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/23.gif?raw=true",
     "price": "x monet"
   },
-    {
+  {
     "id": "product24",
     "name": "Stojak z beczką na wino",
     "ingredients": [
@@ -351,7 +351,23 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/24.gif?raw=true",
     "price": "x monet"
   },
-    {
+  {
+    "id": "product24.5",
+    "name": "Biedne łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski topoli",
+      "Jutowe tkaniny",
+      "Skóra dzika",
+      "Paczki gwoździ",
+      "Klej",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/24_5.webp?raw=true",
+    "price": "x monet"
+  },
+  {
     "id": "product25",
     "name": "Argański stolik",
     "ingredients": [
