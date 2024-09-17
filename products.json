@@ -736,7 +736,7 @@
       "Paczki gwoździ",
       "Oleje rybne"
     ],
-    "description": "Regeneracja staminy: (nieznane)",
+    "description": "Regeneracja staminy: 0.39/s",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/39.gif?raw=true",
     "price": "x monet"
   },
@@ -912,6 +912,22 @@
     ],
     "description": "Pojemność: 350kg (KLUCZ)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/51.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product52",
+    "name": "Farańskie łóżko",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Jedwabna tkanina",
+      "Skóra czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: 0.45/s",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/52.webp?raw=true",
     "price": "x monet"
   }
 ]
