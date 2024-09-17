@@ -828,20 +828,6 @@
     "price": "x monet"
   },
   {
-    "id": "product46",
-    "name": "Stos dobrych skrzyń ładunkowych",
-    "ingredients": [
-      "Potrzebne materiały:",
-      "Deski dębowe",
-      "Kleje",
-      "Paczki gwoździ",
-      "Oleje rybne"
-    ],
-    "description": "Pojemność: 800kg (BEZKLUCZA)",
-    "image": "https://github.com/Msciciel55/stolarz/blob/main/46.webp?raw=true",
-    "price": "x monet"
-  },
-    {
     "id": "product47",
     "name": "Vengardzki stół szlachty",
     "ingredients": [
@@ -853,6 +839,20 @@
     ],
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/47.webp?raw=true",
+    "price": "x monet"
+  }
+  {
+    "id": "product46",
+    "name": "Stos dobrych skrzyń ładunkowych",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Pojemność: 800kg (BEZKLUCZA)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/46.webp?raw=true",
     "price": "x monet"
   }
 ]
