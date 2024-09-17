@@ -633,7 +633,7 @@
     "image": "https://github.com/Msciciel55/stolarz/blob/main/36.gif?raw=true",
     "price": "x monet"
   },
-        {
+  {
     "id": "product37",
     "name": "Zwykła skrzynia z zamkiem",
     "ingredients": [
@@ -647,5 +647,91 @@
     "description": "Pojemność: 300kg (KLUCZ)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/37.gif?raw=true",
     "price": "x monet"
-  }
+  },
+  {
+    "id": "product38",
+    "name": "Zwykły stojak na alkohol",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/38.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product39",
+    "name": "Wygodne łóżko z Feshyr",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Jutowe tkaniny",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/39.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product40",
+    "name": "Mały stoliczek",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/40.gif?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product41",
+    "name": "Ławka obozowa",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/41.gif?raw=true",
+    "price": "x monet"
+  },
+    {
+    "id": "product42",
+    "name": "Skrzynka zrobiona na stolik",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczka gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/42.gif?raw=true",
+    "price": "x monet"
+  },
+      {
+    "id": "product43",
+    "name": "Drewniana wanna",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Kleje",
+      "Paczki gwoździ",
+      "Sadła",
+      "Oleje rybne"
+    ],
+    "description": "Regeneracja staminy: (nieznane)",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/43.gif?raw=true",
+    "price": "x monet"
+  },
 ]
