@@ -943,5 +943,36 @@
     "description": "",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/53.webp?raw=true",
     "price": "x monet"
+  },
+  {
+    "id": "product54",
+    "name": "Fotel z tkaniny",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Jutowe tkaniny",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/54.webp?raw=true",
+    "price": "x monet"
+  },
+  {
+    "id": "product55",
+    "name": "Fotel z skóry",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski sosnowe",
+      "Skóry czarnego wilka",
+      "Kleje",
+      "Paczki gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/55.webp?raw=true",
+    "price": "x monet"
   }
+  
 ]
