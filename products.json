@@ -840,5 +840,19 @@
     "description": "Pojemność: 800kg (BEZKLUCZA)",
     "image": "https://github.com/Msciciel55/stolarz/blob/main/46.webp?raw=true",
     "price": "x monet"
+  },
+    {
+    "id": "product47",
+    "name": "Vengardzki stół szlachty",
+    "ingredients": [
+      "Potrzebne materiały:",
+      "Deski dębowe",
+      "Klej",
+      "Paczk gwoździ",
+      "Oleje rybne"
+    ],
+    "description": "",
+    "image": "https://github.com/Msciciel55/stolarz/blob/main/47.webp?raw=true",
+    "price": "x monet"
   }
 ]
